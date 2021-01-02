@@ -1,7 +1,9 @@
 MovieLens Capstone Project
 
 University: HarvardX
+
 Course: PH125.9x
+
 Program: Data Science Professional
 
 Author: Mootaz Abdel-Dayem
