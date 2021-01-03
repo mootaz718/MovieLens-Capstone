@@ -1,10 +1,16 @@
 # MovieLens Capstone Project
 
+
 Author: Mootaz Abdel-Dayem 
+
 University: HarvardX
+
 Program: Data Science Professional
+
 Course: PH125.9x
+
 Program: Data Science Professional
+
 Github: https://github.com/mootaz718/MovieLens-Capstone
 
 
